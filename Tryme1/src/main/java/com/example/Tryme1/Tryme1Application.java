@@ -11,15 +11,5 @@ public class Tryme1Application {
 	}
 
 }
-// a local change
 
-// a remote change
-
-
-// a changed added : no conflict after the main
-
-// master : no conflict after merge
-
-// A local change: no conflict after merge
-
-// A remote change: no conflict after merge
+update 1 ok
