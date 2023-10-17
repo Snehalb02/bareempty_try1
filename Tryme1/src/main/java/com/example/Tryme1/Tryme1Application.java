@@ -12,4 +12,6 @@ public class Tryme1Application {
 
 }
 
-// master : conflict
+// a changed added : no conflict after the main
+
+// master : no conflict after merge
