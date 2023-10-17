@@ -16,4 +16,6 @@ public class Tryme1Application {
 
 // master : no conflict after merge
 
-// A local change: it will conflict with the remote change
+// A local change: no conflict after merge
+
+// A remote change: no conflict after merge
