@@ -15,3 +15,5 @@ public class Tryme1Application {
 // a changed added : no conflict after the main
 
 // master : no conflict after merge
+
+// A local change: it will conflict with the remote change
